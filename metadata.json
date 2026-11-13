@@ -1,0 +1,6 @@
+{
+  "name": "NovaStream IPTV",
+  "description": "Multi-screen BYOP IPTV & OTT media player featuring Xtream Codes, M3U/M3U8, Stalker MAC portals, 2D XMLTV EPG, 4-way Multi-Screen, and integrated Media3 ExoPlayer, LibVLC, and MPV engines with per-ABI split builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

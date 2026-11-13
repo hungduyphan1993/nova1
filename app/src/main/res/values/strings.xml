@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NovaStream IPTV</string>
+    <string name="disclaimer_byop">NovaStream IPTV is strictly a client-side media player. No channels or media streams are hosted or bundled by default unless you connect your own playlist or explicitly load open-source licensed test streams.</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_live_tv">Live TV</string>
+    <string name="nav_movies">Movies (VOD)</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_epg">TV Guide (EPG)</string>
+    <string name="nav_catchup">Catch-Up</string>
+    <string name="nav_multiscreen">Multi-Screen</string>
+    <string name="nav_profiles">Playlists &amp; Profiles</string>
+    <string name="nav_settings">Settings &amp; Speed Test</string>
+    <string name="engine_exoplayer">ExoPlayer (Media3)</string>
+    <string name="engine_vlc">LibVLC (Embedded)</string>
+    <string name="engine_mpv">MPV (libmpv)</string>
+    <string name="external_vlc">External VLC</string>
+    <string name="external_mpv">External MPV</string>
+    <string name="external_mx">MX Player</string>
+    <string name="showcase_load_button">1-Tap Open-Source Broadcast Showcase</string>
+    <string name="search_hint">Instant FTS Search across Live TV, Movies &amp; Series…</string>
+</resources>
